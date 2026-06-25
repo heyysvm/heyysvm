@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey 👋 I'm Shivam
 
-<!--
-**heyysvm/heyysvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE Student
 
-Here are some ideas to get you started:
+Building AI, Full Stack & Chrome Extensions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- DSA
+- React
+- Backend
+- AI
+
+- ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hey%20I'm%20Shivam&fontSize=45)
