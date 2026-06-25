@@ -13,7 +13,7 @@ Hi 👋, I'm Shivam
 ## 💫 About Me
 
 * 🎓 B.Tech CSE Student
-* 💻 Building **AI applications**, **Chrome Extensions**, and **Full Stack Projects**
+* 💻 Building **AI applications**, **Devs tool**, and **Full Stack Projects**
 * 🌱 Currently learning **Backend Development**, **System Design**, and **Advanced DSA**
 * ⚡ Goal: Become a top software engineer capable of building products used by thousands.
 * 📚 I believe in learning by building real-world projects instead of just following tutorials.
