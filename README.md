@@ -22,12 +22,10 @@
 
 # 🚀 Current Focus
 
-* 🧠 Data Structures & Algorithms (LeetCode)
-* ⚛ React
-* 🚀 Node.js & Express
-* 🗄 MongoDB
-* 🤖 Generative AI
-* 🔥 Chrome Extension Development
+* 🧠 Data Structures & Algorithms // CP 
+* 🗄 Mern Stack
+* 🤖 Machine Learning
+*  APP / IOS Development
 
 ---
 
